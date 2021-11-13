@@ -4,8 +4,8 @@
 To test the viability of the Long Short Term Memory Model in predicting stock prices.
 
 **Setting**
-- Use 60 days of past close prices to predict the next day close price
-- Use 4 LSTM layers and 1 Dropout layer
+- Use 60 days of past close prices to predict the next day close price.
+- Use 4 LSTM layers and 1 Dropout layer.
 
 **Steps**
 1) Obtain the relevant stock data from Yahoo Finance.
